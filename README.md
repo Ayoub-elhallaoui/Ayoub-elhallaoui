@@ -1,22 +1,14 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Ayoub EL HALLAOUI</h2>
 
 ###
-
-<br clear="both">
 
 <p align="left">I am an ambitious 21-year-old developer. Although my educational background is in finance and accountancy, where I earned my bachelor's degree, my true passion lies in web development. My goal is to build innovative websites and web apps that provide great user experiences. I am excited to continue growing as a web development professional.</p>
 
 ###
 
-<br clear="both">
-
 <h4 align="left">📧 Contact me:</h4>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/elhallaoui-ayoub/" target="_blank">
@@ -32,14 +24,9 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">🎯 Languages & tools:</h4>
 
 ###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -73,15 +60,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
 ###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayoub-elhallaoui&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ayoub-elhallaoui&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-elhallaoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ayoub-elhallaoui&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-elhallaoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
 ###
