@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I am an ambitious 21-year-old developer. Although my educational background is in finance and accountancy, where I earned my bachelor's degree, my true passion lies in web development. My goal is to build innovative websites and web apps that provide great user experiences. I am excited to continue growing as a web development professional.</p>
- 
+  
 ###
 
 <h4 align="left">📧 Contact me:</h4>
