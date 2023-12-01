@@ -77,3 +77,9 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=539bf5&size=35&center=true&v
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b290fc&height=120&section=footer" />
+</a>
