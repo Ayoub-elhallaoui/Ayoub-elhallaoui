@@ -1,3 +1,6 @@
+![Typing
+SVG](https://readme-typing-svg.herokuapp.com/?color=b290fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ayoub+EL+Hallaoui;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Hello!+ツ)
+
 <h2 align="left">Hi 👋! My name is Ayoub EL HALLAOUI</h2> 
 
 ###
