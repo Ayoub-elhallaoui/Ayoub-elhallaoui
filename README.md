@@ -1,7 +1,6 @@
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋!;My+name+is+Ayoub+EL+Hallaoui;I'm+a+Full+Stack+Developer)
+SVG](https://readme-typing-svg.herokuapp.com/?color=01469EFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+!+👋;My+name+is+Ayoub+EL+Hallaoui;I'm+a+Full+Stack+Developer)
 
-<h2 align="left">Hi 👋! My name is Ayoub EL HALLAOUI</h2> 
 
 ###
 
