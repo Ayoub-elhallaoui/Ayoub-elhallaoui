@@ -1,7 +1,10 @@
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=120&section=header" />
+</a>
+
 ![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?color=539bf5&size=35&center=true&vCenter=true&width=1000&lines=Hello+!+👋;My+name+is+Ayoub+EL+Hallaoui;I'm+a+Full+Stack+Developer)
 
-<Hr></Hr>
 ###
 
 <p align="left">I am an ambitious 21-year-old developer. Although my educational background is in finance and accountancy, where I earned my bachelor's degree, my true passion lies in web development. My goal is to build innovative websites and web apps that provide great user experiences. I am excited to continue growing as a web development professional.</p>
