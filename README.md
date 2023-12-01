@@ -1,7 +1,6 @@
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=120&section=header" />
 </a>
-
 ![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?color=539bf5&size=35&center=true&vCenter=true&width=1000&lines=Hello+!+👋;My+name+is+Ayoub+EL+Hallaoui;I'm+a+Full+Stack+Developer)
 
@@ -78,8 +77,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=539bf5&size=35&center=true&v
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
-
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b290fc&height=120&section=footer" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=120&section=footer" />
 </a>
