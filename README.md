@@ -6,6 +6,7 @@
 SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&vCenter=true&width=1000&lines=Hello+!+👋;I'm+Ayoub+EL+Hallaoui;I'm+a+Full+Stack+Developer)
 
 ###
+<div align="left">
 
 - 🌱 I’m continuously learning *and improving my coding abilities.*
 
@@ -14,7 +15,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 - 📚 Also learning *PostreSQL and Docker.*
 
 - 📫 Reach me by *[Email](mailto:ayoub1elhallaoui@gmail.com).*
-  
+  </div>
 ###
 
 <h3 align="left">📧 Contact me:</h3>
