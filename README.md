@@ -9,11 +9,11 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 
 - 🌱 I’m continuously learning *and improving my coding abilities.*
 
-- 🔭 Collaborating with a team of three on a full-stack ecommerce website using MERN technologies.*
+- 🔭 Collaborating with a team of three on a *full-stack ecommerce website using MERN technologies.*
 
 - 📚 Also learning *PostreSQL and Docker.*
 
-- 📫 Reach me by my* [Email](mailto:ayoub1elhallaoui@gmail.com).*
+- 📫 Reach me by my *[Email](mailto:ayoub1elhallaoui@gmail.com).*
   
 ###
 
