@@ -13,7 +13,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 
 - 📚 I'm currently learning *PostreSQL and Docker.*
 
-- 📫 How to reach me? *you can use [Email](Ayoub1elhallaoui@gmail.com).*
+- 📫 How to reach me? *you can use [Email](mailto:ayoub1elhallaoui@gmail.com).*
   
 ###
 
