@@ -7,13 +7,13 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 
 ###
 
-- 🔭 I’m currently *Collaborating with a team of three on a full-stack ecommerce website using MERN technologies.*
-
 - 🌱 I’m continuously learning *and improving my coding abilities.*
 
-- 📚 I'm currently learning *PostreSQL and Docker.*
+- 🔭 Collaborating with a team of three on a full-stack ecommerce website using MERN technologies.*
 
-- 📫 How to reach me? *you can use [Email](mailto:ayoub1elhallaoui@gmail.com).*
+- 📚 Also learning *PostreSQL and Docker.*
+
+- 📫 Reach me by my* [Email](mailto:ayoub1elhallaoui@gmail.com).*
   
 ###
 
