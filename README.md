@@ -73,7 +73,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-elhallaoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&color=38B2AC&theme=tokyonight)
 
 <a href="#">
