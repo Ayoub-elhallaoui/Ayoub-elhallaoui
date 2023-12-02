@@ -7,7 +7,13 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 
 ###
 
-<p align="left">I am an ambitious 21-year-old developer. Although my educational background is in finance and accountancy, where I earned my bachelor's degree, my true passion lies in web development. My goal is to build innovative websites and web apps that provide great user experiences. I am excited to continue growing as a web development professional.</p>
+- 🔭 I’m currently *Collaborating with a team of three on a full-stack ecommerce website using MERN technologies.*
+
+- 🌱 I’m continuously learning *and improving my coding abilities.*
+
+- 📚 I'm currently learning *PostreSQL and Docker.*
+
+- 📫 How to reach me? *you can use [Email](Ayoub1elhallaoui@gmail.com).*
   
 ###
 
@@ -53,8 +59,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
