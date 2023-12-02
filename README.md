@@ -10,7 +10,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 
 - 🔭 I'm currently collaborating with a team of 3 on a *full-stack ecommerce website using MERN technologies.*
 
-- 🌱 Continuously expanding my coding skills.*
+- 🌱 Continuously *expanding my coding skills.*
 
 - 📚 Also learning *PostreSQL and Docker.*
 
