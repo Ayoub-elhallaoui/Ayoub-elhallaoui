@@ -8,11 +8,11 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 ###
 <div align="left">
 
-- 🔭 Collaborating with a team of 3 on a *full-stack ecommerce website using MERN technologies.*
+- 🔭 I'm currently collaborating with a team of 3 on a *full-stack ecommerce website using MERN technologies.*
 
 - 🌱 Continuously expanding my coding skills.*
 
-- 📚 I'm currently learning *PostreSQL and Docker.*
+- 📚 Also learning *PostreSQL and Docker.*
 
 - 📫 Reach me by *[Email](mailto:ayoub1elhallaoui@gmail.com).*
 
