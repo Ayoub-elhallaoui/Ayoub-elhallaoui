@@ -17,7 +17,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
   
 ###
 
-<h3 align="left">📧 Contact me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
