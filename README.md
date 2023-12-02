@@ -3,7 +3,7 @@
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&vCenter=true&width=1000&lines=Hello+!+👋;My+name+is+Ayoub+EL+Hallaoui;I'm+a+Full+Stack+Developer)
+SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&vCenter=true&width=1000&lines=Hello+!+👋;I'm+Ayoub+EL+Hallaoui;I'm+a+Full+Stack+Developer)
 
 ###
 
