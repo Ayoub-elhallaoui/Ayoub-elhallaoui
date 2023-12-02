@@ -78,7 +78,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&color=38B2AC&theme=tokyonight)
 
-[![](https://visitcount.itsvg.in/api?id=Ayoub-elhallaoui&icon=0&color=38B2AC)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ayoub-elhallaoui&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer" />
