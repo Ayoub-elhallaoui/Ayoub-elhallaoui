@@ -71,12 +71,13 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=539bf5&size=35&center=true&v
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ayoub-elhallaoui&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayoub-elhallaoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="140" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayoub-elhallaoui&theme=react&hide_border=true&include_all_commits=true&count_private=true"  />
 </div>
 
 ###
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=120&section=footer" />
