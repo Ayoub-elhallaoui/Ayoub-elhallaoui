@@ -11,7 +11,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
   
 ###
 
-<h4 align="left">📧 Contact me:</h4>
+<h3 align="left">📧 Contact me:</h3>
 
 ###
 
@@ -29,7 +29,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 
 ###
 
-<h4 align="left">🎯 Languages & tools:</h4>
+<h3 align="left">🎯 Languages & tools:</h3>
 
 ###
 <div align="left">
