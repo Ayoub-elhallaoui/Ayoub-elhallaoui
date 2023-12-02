@@ -73,6 +73,12 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&color=38B2AC&theme=tokyonight)
 
+###
+
+<img src="https://raw.githubusercontent.com/Ayoub-elhallaoui/Ayoub-elhallaoui/output/snake.svg" alt="Snake animation" />
+
+###
+
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer" />
 </a>
