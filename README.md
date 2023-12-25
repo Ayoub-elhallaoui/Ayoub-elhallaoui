@@ -1,13 +1,4 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Add some margin between icons */
-    .icon-container a {
-      margin-right: 10px;
-    }
-  </style>
-</head>
+
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=header" />
@@ -19,33 +10,38 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 ###
 <div align="left">
 
-- 🔭 I'm currently collaborating with a team of 3 on a *full-stack ecommerce website using MERN technologies.*
-
-- 🌱 Continuously *expanding my coding skills.*
+* 🌍  I'm based in Casablanca, Morocco.
+  
+* 🤝  I'm open to collaborating on interesting projects
 
 - 📚 Also learning *PostreSQL and Docker.*
 
-- 📫 Reach me by *[Email](mailto:ayoub1elhallaoui@gmail.com).*
+- ✉️  You can contact me at [ayoub1elhallaoui@gmail.com](mailto:ayoub1elhallaoui@gmail.com)
 
   </div>
 ###
 
-<h3 align="left">📧 Contact me:</h3>
+<h3 align="left"> 🖥️ Socials:</h3>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/elhallaoui-ayoub/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+<div class="social-container" align="left">
+  <a href="https://discord.com/users/ayoubelhallaoui" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
-  <a href="mailto:ayoub1elhallaoui@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  
+  <a href="https://www.github.com/Ayoub-elhallaoui" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/elhallaoui-ayoub" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
 </div>
 
 ###
 
-<h3 align="left">🎯 Languages & tools:</h3>
+<h3 align="left"> 🎯 Skills:</h3>
 
 ###
 
@@ -68,6 +64,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 ###
 
 <div align="center">
@@ -76,6 +73,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=35&center=true&v
 </div>
 
 ### ✍️ Random Dev Quote:
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&color=38B2AC&theme=tokyonight)
 
 
